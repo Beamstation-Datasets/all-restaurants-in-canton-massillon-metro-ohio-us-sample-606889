@@ -1,0 +1,12 @@
+{
+  "export_job_id": "beb156a0-ee61-4e86-939f-3fa330fe8fd0",
+  "id_short": 606889,
+  "published_at": "2026-04-13T19:59:10Z",
+  "repo_name": "all-restaurants-in-canton-massillon-metro-ohio-us-sample-606889",
+  "sample_asset_name": "beamstation_606889_restaurants-us-cantonmassillonoh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/606889/beamstation_606889_restaurants-us-cantonmassillonoh_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "0e5959508de9a63833a0e3bde860c19151259388552015b2cb6a1452e71e3497",
+  "sample_size_bytes": 114675,
+  "total_records": 393
+}
