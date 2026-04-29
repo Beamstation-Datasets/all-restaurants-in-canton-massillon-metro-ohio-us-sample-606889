@@ -1,6 +1,6 @@
 # All Restaurants in Canton-Massillon (Metro), Ohio, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 70 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `606889` |
 | Location | Canton-Massillon, OH |
 | Category | Restaurants |
-| Full dataset size | 615 records |
-| Free sample size | 61 records (9.92%) |
-| Last export | 2026-04-21T19:02:14.369486+00:00 |
+| Full dataset size | 703 records |
+| Free sample size | 70 records (9.96%) |
+| Last export | 2026-04-28T20:23:39.369572+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-canton-massillon-metro-ohio-us-sample-606889/releases/download/sample-latest/beamstation_606889_restaurants-us-cantonmassillonoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
